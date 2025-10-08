@@ -12,3 +12,14 @@ On the pc it reads them locally. (It is in the script commented).
 For codecarbon it has a parameter for the region that we change according to the region of the google cloud vm.
 
 The results are saved in csv files, one total for cross validation and one for the holdout (after the end of each training we save it with whatever results it has run so that it is lost).
+
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@article{mlsaasbench2025,
+  title   = {Beyond Accuracy: Benchmarking Machine Learning Models for Efficient and Sustainable SaaS Decision Support, Future Internet, 2025},
+  author  = {Efthimia Mavridou, Eleni Vrochidou, Michail Selvesakis and George A. Papakostas},
+  year    = {2025},
+}
