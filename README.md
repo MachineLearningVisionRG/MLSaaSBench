@@ -19,7 +19,8 @@ If you use this work, please cite:
 
 ```bibtex
 @article{mlsaasbench2025,
-  title   = {Beyond Accuracy: Benchmarking Machine Learning Models for Efficient and Sustainable SaaS Decision Support, Future Internet, 2025},
+  title   = {Beyond Accuracy: Benchmarking Machine Learning Models for Efficient and Sustainable SaaS Decision Support},
   author  = {Efthimia Mavridou, Eleni Vrochidou, Michail Selvesakis and George A. Papakostas},
   year    = {2025},
+  journal = {Future Internet}
 }
